@@ -1,0 +1,21 @@
+{
+    "name": "stella-theme",
+    "displayName": "Stella Theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Stella Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Stella Theme-color-theme.json"
+            }
+        ]
+    }
+}
