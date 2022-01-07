@@ -3,11 +3,19 @@
     "displayName": "Stella Theme",
     "description": "",
     "version": "0.0.1",
+    "publisher": "ShapeMess",
     "engines": {
         "vscode": "^1.63.0"
     },
     "categories": [
         "Themes"
+    ],
+    "icon": "assets/img/stella-theme-ico-256.png",
+    "keywords": [
+      "stella",
+      "theme",
+      "dark",
+      "pastel"
     ],
     "contributes": {
         "themes": [
@@ -17,5 +25,9 @@
                 "path": "./themes/Stella Theme-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ShapeMess/Stella-Theme"
     }
 }

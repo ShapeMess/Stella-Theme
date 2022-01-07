@@ -1,13 +1,12 @@
-# README
-## This is the README for your extension "stella-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Stella Theme
+This theme was created specifically to lower eye strain by using warm pastel color shades. This is common on higher-end monitors, which tend to feature brighter colors, deeper darks and in turn overally much higher contrast than lower-end ones.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This is a side project I'm working on for a day-to-day use so I myself can not cover all the languages people are actively using.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Found Inconsistencies or missing colors?
+Raise an issue and provide a sample of the code for the specific language.
+I'll address issues in free time.
 
-**Enjoy!**
+
+### GitHub: 
+https://github.com/ShapeMess/Stella-Theme
