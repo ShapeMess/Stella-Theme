@@ -140,7 +140,7 @@
 		"terminal.ansiBrightGreen": "#72b96f",
 		"terminal.ansiBrightMagenta": "#bb73a3",
 		"terminal.ansiBrightRed": "#e06868",
-		"terminal.ansiBrightWhite": "#ffffff",
+		"terminal.ansiBrightWhite": "#e9e9e9",
 		"terminal.ansiBrightYellow": "#dbc169",
 		
 		"terminal.selectionBackground": "#ffdebf1a",
@@ -290,7 +290,8 @@
 			"name": "Comment",
 			"scope": [
 				"comment.line.double-slash",
-                "comment.block.documentation"
+                "comment.block.documentation",
+				"punctuation.definition.comment"
 			],
 			"settings": {
 				"foreground": "#615659"
@@ -533,6 +534,7 @@
                 "support.type.builtin",
 				"entity.name.type.module",
 				"keyword.operator.type",
+				"entity.other.inherited-class"
 			],
 			"settings": {
 				"foreground": "#445c72",
