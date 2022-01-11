@@ -255,7 +255,7 @@
 				"fenced_code.block.language"
 			],
 			"settings": {
-				"foreground": "#cc9270",
+				"foreground": "#3f946a",
 			}
 		},
 		{
@@ -324,7 +324,7 @@
 				"punctuation.definition.template-expression.end",
 			],
 			"settings": {
-				"foreground": "#834444",
+				"foreground": "#1f9b8b",
 			}
 		},
 
