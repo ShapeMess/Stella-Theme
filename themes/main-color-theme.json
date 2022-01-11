@@ -289,7 +289,7 @@
 		{
 			"name": "Comment",
 			"scope": [
-				"comment.line.double-slash",
+				"comment.line",
                 "comment.block.documentation",
 				"punctuation.definition.comment"
 			],
