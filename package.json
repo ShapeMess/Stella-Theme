@@ -2,7 +2,7 @@
     "name": "stella-theme",
     "displayName": "Stella Theme",
     "description": "Pastel-coloured theme optimised for high-contrast screens.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "ShapeMess",
     "engines": {
         "vscode": "^1.63.0"

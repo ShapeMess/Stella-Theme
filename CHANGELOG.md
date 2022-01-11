@@ -1,4 +1,7 @@
 # Change Log
+### 0.0.5
+- Fixed CSS comment issues.
+- Changed string/template colors.
 
 ### 0.0.4
 - Patched type implementation in TS.
