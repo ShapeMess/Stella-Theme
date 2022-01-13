@@ -805,6 +805,15 @@
 				"foreground": "#388b87",
 			}
 		},
+		{
+			"name": "CSS Important/keywords",
+			"scope": [
+				"source.css keyword.other"
+			],
+			"settings": {
+				"foreground": "#36a3be",
+			}
+		},
 
 
 

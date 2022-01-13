@@ -1,4 +1,8 @@
 # Change Log
+
+### 0.0.6
+- Added CSS keyword support.
+
 ### 0.0.5
 - Fixed CSS comment issues.
 - Changed string/template colors.
