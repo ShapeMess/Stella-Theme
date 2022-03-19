@@ -30,6 +30,7 @@
 		"sideBarTitle.foreground": "#5c585c",
 		"sideBarSectionHeader.border": "#343135",
 
+		
 		"list.hoverBackground": "#292629",
 		"list.activeSelectionBackground": "#292629",
 		"list.activeSelectionForeground": "#C7C9D1",
@@ -145,6 +146,26 @@
 		"panel.border": "#3a383a",
 
 		// Terminal
+
+		"terminal.foreground": "#cacaca",
+		
+		"terminal.ansiBlack": "#1d1d1d",
+		"terminal.ansiRed": "#d80000",
+		"terminal.ansiBlue": "#3758b3",
+		"terminal.ansiCyan": "#00818a",
+		"terminal.ansiGreen": "#4ca55f",
+		"terminal.ansiMagenta": "#bb579a",
+		"terminal.ansiWhite": "#cacaca",
+		"terminal.ansiYellow": "#f0ad48",
+		
+		"terminal.ansiBrightBlack": "#383838",
+		"terminal.ansiBrightRed": "#fc8787",
+		"terminal.ansiBrightBlue": "#677fc0",
+		"terminal.ansiBrightCyan": "#6ec6cc",
+		"terminal.ansiBrightGreen": "#81c790",
+		"terminal.ansiBrightMagenta": "#e090c6",
+		"terminal.ansiBrightWhite": "#ffffff",
+		"terminal.ansiBrightYellow": "#ffcd83",
 
 		// Other
 		"input.background": "#221f22",

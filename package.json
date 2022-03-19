@@ -12,10 +12,10 @@
     ],
     "icon": "assets/img/stella-theme-ico-256.png",
     "keywords": [
-      "stella",
-      "theme",
-      "dark",
-      "pastel"
+        "stella",
+        "theme",
+        "dark",
+        "pastel"
     ],
     "contributes": {
         "themes": [
@@ -29,5 +29,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/ShapeMess/Stella-Theme"
+    },
+    "devDependencies": {
+        "chalk": "^4.1.2"
     }
 }

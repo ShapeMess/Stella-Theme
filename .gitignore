@@ -1,6 +1,5 @@
 node_modules
 *.vsix
-/tests
 /samples
 tests-color-theme.json
 stella-theme-logo.svg
